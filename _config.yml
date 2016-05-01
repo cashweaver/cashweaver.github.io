@@ -32,6 +32,15 @@ nav:
   - name:           "Twitter"
     href:           "//twitter.com/cashweaver"
 
+# Social Media
+social:
+  - name:           "GitHub"
+    href:           "//github.com/cbweaver"
+    icon:           "images/github.svg"
+  - name:           "Twitter"
+    href:           "//twitter.com/cashweaver"
+    icon:           "images/twitter.svg"
+
 # Sass
 sass:
   style:            :compressed
