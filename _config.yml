@@ -32,10 +32,10 @@ nav:
 social:
   - name:           "GitHub"
     href:           "//github.com/cbweaver"
-    icon:           "images/github.svg"
+    icon:           "github"
   - name:           "Twitter"
     href:           "//twitter.com/cashweaver"
-    icon:           "images/twitter.svg"
+    icon:           "twitter"
 
 # Sass
 sass:

@@ -11,7 +11,7 @@ layout: default
     <a href="{{ nav.href }}">{{ nav.name }}</a>
     {% endfor %}
     {% for social in site.social %}
-    <a class="social {{social.name}}" href="{{ social.href }}">{{ social.name }}</a>
+    <a class="social icon-{{social.icon}}" href="{{ social.href }}">{{ social.name }}</a>
     {% endfor %}
   </nav>
 </header>
