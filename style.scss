@@ -326,7 +326,14 @@ tbody tr:nth-child(odd) th {
       }
     }
   }
+}
 
+.content {
+  >p {
+    &:first-child {
+      .lead();
+    }
+  }
 }
 
 .page {
