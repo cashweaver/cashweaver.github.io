@@ -10,7 +10,7 @@ layout: default
     {% for nav in site.nav %}
     <a href="{{ nav.href }}">{{ nav.name }}</a>
     {% endfor %}
-    {% for nav in site.social %}
+    {% for social in site.social %}
     <a class="social {{social.name}}" href="{{ social.href }}">{{ social.name }}</a>
     {% endfor %}
   </nav>
