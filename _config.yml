@@ -27,10 +27,6 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "//cashweaver.com/about"
-  - name:           "GitHub"
-    href:           "//github.com/cbweaver"
-  - name:           "Twitter"
-    href:           "//twitter.com/cashweaver"
 
 # Social Media
 social:
