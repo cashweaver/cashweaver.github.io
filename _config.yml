@@ -4,16 +4,23 @@
 
 # Basic
 name:               "Cash Weaver"
-description:        "a blog"
+description:        "A blog about web development."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//cashweaver.com"
-author:             "cbweaver"
+author:             "cashweaver"
 twitter:
   username:         "cashweaver"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
+social:
+  - type:           "GitHub"
+    name:           "cbweaver"
+    links:          ["//github.com/cbweaver"]
+  - type:           "Twitter"
+    name:           "cashweaver"
+    links:          ["//twitter.com/cashweaver"]
 
 # URL
 baseurl:            ""
