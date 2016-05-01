@@ -330,7 +330,7 @@ tbody tr:nth-child(odd) th {
 
 .content {
   >p {
-    &:first-child {
+    &:first-of-type {
       @extend .lead;
     }
   }
