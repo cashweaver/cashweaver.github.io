@@ -16,8 +16,8 @@ twitter:
 #    publisher:      1234
 social:
   - type:           "GitHub"
-    name:           "cbweaver"
-    links:          ["//github.com/cbweaver"]
+    name:           "cashweaver"
+    links:          ["//github.com/cashweaver"]
   - type:           "Twitter"
     name:           "cashweaver"
     links:          ["//twitter.com/cashweaver"]
@@ -38,7 +38,7 @@ nav:
 # Social Media
 social:
   - name:           "GitHub"
-    href:           "//github.com/cbweaver"
+    href:           "//github.com/cashweaver"
     icon:           "github"
   - name:           "Twitter"
     href:           "//twitter.com/cashweaver"
