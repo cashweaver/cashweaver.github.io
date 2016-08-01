@@ -5,7 +5,7 @@ permalink: /portfolio/
 
 A sample of recent and distinguished work.
 
-### [Sierra Nevada](http://www.sierranevada.com/)
+### [Sierra Nevada Brewing Company](http://www.sierranevada.com/)
 
 Developer, Consultant
 
