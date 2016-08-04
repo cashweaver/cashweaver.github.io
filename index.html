@@ -7,11 +7,11 @@ layout: default
   </h1>
   <p class="lead">on full-stack web development</p>
   <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
     {% for social in site.social %}
     <a class="icon-social-{{social.icon}}" href="{{ social.href }}"><span class="sr-only">{{ social.name }}</span></a>
+    {% endfor %}
+    {% for nav in site.nav %}
+    <a href="{{ nav.href }}">{{ nav.name }}</a>
     {% endfor %}
   </nav>
 </header>

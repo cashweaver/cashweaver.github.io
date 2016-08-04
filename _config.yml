@@ -34,8 +34,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "//cashweaver.com/about"
-  #- name:           "Portfolio"
-    #href:           "//cashweaver.com/portfolio"
+  - name:           "Portfolio"
+    href:           "//cashweaver.com/portfolio"
 
 # Social Media
 social:
