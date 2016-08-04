@@ -9,15 +9,15 @@ A sample of recent and distinguished work.
 
 Developer, Consultant
 
-### [New Clairvaux Vineyards](http://www.newclairvauxvineyard.com/)
-
-Lead Developer
-
 ### [County of Glenn](http://www.countyofglenn.net/)
 
 Lead Developer, Consultant
 
 ### [Lassen County](http://www.lassencounty.org/)
+
+Lead Developer, Consultant
+
+### [Victor](http://victor.org/)
 
 Lead Developer, Consultant
 
@@ -29,11 +29,11 @@ Lead Developer
 
 Developer
 
-### [Victor](http://victor.org/)
-
-Lead Developer, Consultant
-
 ### [Vann Family Orchards](http://vannfamilyorchards.com/)
+
+Lead Developer
+
+### [New Clairvaux Vineyards](http://www.newclairvauxvineyard.com/)
 
 Lead Developer
 
